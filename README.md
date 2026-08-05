@@ -136,8 +136,7 @@ http://www.linkedin.com/in/naga-durga-lakshmi-metti-1aba96292
 💻 **GitHub:**
 https://github.com/NagaDurgaM
 
-🌐 **Portfolio:**
-*Add your portfolio URL here*
+
 
 ---
 
