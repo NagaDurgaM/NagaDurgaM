@@ -131,8 +131,7 @@ Consistently solving Data Structures & Algorithms problems to strengthen problem
 📧 **Email:** nagadurgametti@gmail.com
 
 💼 **LinkedIn:**
-http://www.linkedin.com/in/naga-durga-lakshmi-metti-1aba96292
-
+https://www.linkedin.com/in/nagadurgalakshmimetti
 💻 **GitHub:**
 https://github.com/NagaDurgaM
 
